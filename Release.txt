@@ -1,0 +1,6 @@
+0.0.0.0
+<https://dl.dropboxusercontent.com/s/lx7v88muochg6d0/ReaperVoiceController.exe>
+Release note:
+*Update test
+
+Click "Yes" to choose a download destination and start the update.
