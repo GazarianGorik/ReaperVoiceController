@@ -4,5 +4,6 @@ Release note:
 *Update test
 *Another sentence!
  This one is with his friend.
+ J'ajouterais même que...
 
 Click "Yes" to choose a download destination and start the update.
