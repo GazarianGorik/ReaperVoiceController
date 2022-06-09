@@ -1,4 +1,4 @@
-0.0.0.2
+0.0.0.3
 <https://github.com/GazarianGorik/ReaperVoiceController/blob/main/ReaperVoiceController.exe>
 Release note:
 *Update test
