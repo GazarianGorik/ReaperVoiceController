@@ -1,9 +1,6 @@
-0.0.0.4
+0.0.0.3
 <https://github.com/GazarianGorik/ReaperVoiceController/raw/main/ReaperVoiceController.exe>
 Release note:
-*Update test
-*Another sentence!
- This one is with his friend.
- J'ajouterais même que...
+This is the first version (still in test).
 
 Click "Yes" to choose a download destination and start the update.
