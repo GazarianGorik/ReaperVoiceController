@@ -1,6 +1,9 @@
-0.0.1.0
+0.0.1.1
 <https://github.com/GazarianGorik/ReaperVoiceController/raw/main/ReaperVoiceController.exe>
 Release note:
-* First build for testers
+- No more Popup flood 🎶 À la queuleuleu... 🎶
+- "Check connection" system improved
+- Donate button 😇
 
-Click "Yes" to choose a download destination and start the update.
+Click "Yes" to choose a download destination and start the update. (DO NOT CHOOSE THE CURRENT APP LOCATION, you don't want to know what that would do...).
+No seriously, don't do that, it will be patched soon!
