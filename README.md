@@ -29,6 +29,10 @@ IMPORTANT NOTE: If you change any connection settings (IP address or ports), you
 
 (5) You can check this box to automatically hide app (settings window) when it’s launched.
 
+(6) Reset settings (not undoable!)
+
+(7) Reset commands (not undoable!)
+
 (8) If you have any connection troubles or want to check the connection between Reaper and RVC, click this refresh button. More details about connection troubleshooting here V - Troubleshoot connection issues
 
 (9) If you catch a bug, send it to me via email, github! It will be fixed ASAP!
