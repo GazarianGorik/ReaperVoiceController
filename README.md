@@ -15,7 +15,7 @@
 Note: Your IP or/and ports will probably be different, follow step 7).
 
 # II - Settings window
-![image](https://user-images.githubusercontent.com/78812716/180657074-b3fc80de-098f-40ff-ad30-5d56a7a71be9.png)
+![image](https://user-images.githubusercontent.com/78812716/180657117-fd099b31-b895-42c7-91e4-552f5bda8ea2.png)
 
 (1) Settings status: Shows the current state of settings. To save settings you only need to press enter or un-focus the text box you’re editing. Other settings are automatically saved after changes.
 
