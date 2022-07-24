@@ -11,22 +11,30 @@
 9)	Profit!
 
 ![image](https://user-images.githubusercontent.com/78812716/180656634-26f43828-4540-4a6a-9931-2d8ca84d71dc.png)
+
 Note: Your IP or/and ports will probably be different, follow step 7).
 
 # II - Settings window
 (1) Settings status: Shows the current state of settings. To save settings you only need to press enter or un-focus the text box you’re editing. Other settings are automatically saved after changes.
+
 (2) Local address IP of the device from where Reaper is used. It’s recommended to use the default IP.
+
 (3) VRC Port: It’s the port used by VRC to receive Reaper’s OSC messages. 
+
 (4) Reaper Port: It’s the port used by Reaper to receive VRC OSC messages. 
 Note: You can also set ports manually. It’s recommended to use values between 1025 and 65535. Just keep in mind that to allow connection between Reaper and RVC, both ports need to be free and different.
 IMPORTANT NOTE: If you change any connection settings (IP address or ports), you must change them on Reaper side too. Like you’ve done on step 7) of I - Setup.
+
 (5) You can check this box to automatically hide app (settings window) when it’s launched.
+
 (8) If you have any connection troubles or want to check the connection between Reaper and RVC, click this refresh button. More details about connection troubleshooting here V - Troubleshoot connection issues
+
 9) If you catch a bug, send it to me via email, github! It will be fixed ASAP!
 
 ![image](https://user-images.githubusercontent.com/78812716/180656649-35ddfd35-e9d4-44e3-adf5-45359538f55b.png)
 
 (10) To open settings window, double click on the app icon or right click -> settings. 
+
 (11) To turn On / Off RVC, click on the app icon. 
 
 # III - Add / Edit vocal commands
