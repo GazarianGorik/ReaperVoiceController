@@ -10,7 +10,7 @@
 8)	Check Allow binding message to REAPER actions and FX learn
 9)	Profit!
 
-![image](https://user-images.githubusercontent.com/78812716/180656549-f76693ce-e40f-4adc-b2ab-f04e4b67a3b7.png)
+![image](https://user-images.githubusercontent.com/78812716/180656634-26f43828-4540-4a6a-9931-2d8ca84d71dc.png)
 Note: Your IP or/and ports will probably be different, follow step 7).
 
 # II - Settings window
@@ -24,7 +24,7 @@ IMPORTANT NOTE: If you change any connection settings (IP address or ports), you
 (8) If you have any connection troubles or want to check the connection between Reaper and RVC, click this refresh button. More details about connection troubleshooting here V - Troubleshoot connection issues
 9) If you catch a bug, send it to me via email, github! It will be fixed ASAP!
 
-![image](https://user-images.githubusercontent.com/78812716/180656523-59ba8aad-6a20-4610-a0f0-1f4a10d6b3df.png)
+![image](https://user-images.githubusercontent.com/78812716/180656649-35ddfd35-e9d4-44e3-adf5-45359538f55b.png)
 
 (10) To open settings window, double click on the app icon or right click -> settings. 
 (11) To turn On / Off RVC, click on the app icon. 
