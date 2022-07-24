@@ -10,7 +10,7 @@
 8)	Check Allow binding message to REAPER actions and FX learn
 9)	Profit!
 
-![image](https://user-images.githubusercontent.com/78812716/180656309-7adb2097-0392-46ce-8e09-0f00505193fb.png)
+![image](https://user-images.githubusercontent.com/78812716/180656549-f76693ce-e40f-4adc-b2ab-f04e4b67a3b7.png)
 Note: Your IP or/and ports will probably be different, follow step 7).
 
 # II - Settings window
@@ -23,14 +23,14 @@ IMPORTANT NOTE: If you change any connection settings (IP address or ports), you
 (5) You can check this box to automatically hide app (settings window) when it’s launched.
 (8) If you have any connection troubles or want to check the connection between Reaper and RVC, click this refresh button. More details about connection troubleshooting here V - Troubleshoot connection issues
 9) If you catch a bug, send it to me via email, github! It will be fixed ASAP!
-![image](https://user-images.githubusercontent.com/78812716/180656376-4f606372-326a-4c7e-9676-123ba7d4572d.png)
+![image](https://user-images.githubusercontent.com/78812716/180656523-59ba8aad-6a20-4610-a0f0-1f4a10d6b3df.png)
 (10) To open settings window, double click on the app icon or right click -> settings. 
 (11) To turn On / Off RVC, click on the app icon. 
 
 # III - Add / Edit vocal commands
 To do so, you need to open and edit commands.csv file from toolbar context menu. Right click on RVC icon and click on Edit commands.csv.
 This will automatically open the file in your default .csv file editor (like Excel) and pause the app until you finish editing and CLOSE the file.
-![image](https://user-images.githubusercontent.com/78812716/180656401-5c5379cd-fa6b-4b88-ab28-45a45c4bc219.png)
+![image](https://user-images.githubusercontent.com/78812716/180656504-a42afbcf-cf97-4990-ad6e-3fb670ff081b.png)
 The first column is dedicated to voice commands (it’s recommended to use a pattern (default one is “ok reaper”, to not trigger commands when you talk to someone, or alone… ).
 The second column is for OSC addresses and the third one for OSC arguments. More details about how Reaper use OSC messages in Default.ReaperOSC (win + R => “%appdata%\REAPER\OSC”). Note: The first line of this file is ignored, don’t use it!
 
@@ -40,4 +40,5 @@ You can create a toolbar button in Reaper, from which you can open RVC. To do so
 strProgram = '"X:\\Folder\\AnotherFolder\\ReaperVoiceController.exe"'
 strCmd = 'start "" '..strProgram
 os.execute(strCmd)
+![image](https://user-images.githubusercontent.com/78812716/180656487-40391961-f901-4853-8989-fe99f359d6ee.png)
 
