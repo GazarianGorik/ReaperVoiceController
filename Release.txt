@@ -5,5 +5,4 @@ Release note:
 - "Check connection" system improved
 - Donate button 😇
 
-Click "Yes" to choose a download destination and start the update. (DO NOT CHOOSE THE CURRENT APP LOCATION, you don't want to know what that would do...).
-No seriously, don't do that, it will be patched soon!
+Update now ?
