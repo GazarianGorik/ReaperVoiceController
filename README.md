@@ -15,6 +15,8 @@
 Note: Your IP or/and ports will probably be different, follow step 7).
 
 # II - Settings window
+![image](https://user-images.githubusercontent.com/78812716/180656711-eda633d2-a699-434f-bc64-7b7e5124c76c.png)
+
 (1) Settings status: Shows the current state of settings. To save settings you only need to press enter or un-focus the text box you’re editing. Other settings are automatically saved after changes.
 
 (2) Local address IP of the device from where Reaper is used. It’s recommended to use the default IP.
@@ -29,9 +31,9 @@ IMPORTANT NOTE: If you change any connection settings (IP address or ports), you
 
 (8) If you have any connection troubles or want to check the connection between Reaper and RVC, click this refresh button. More details about connection troubleshooting here V - Troubleshoot connection issues
 
-9) If you catch a bug, send it to me via email, github! It will be fixed ASAP!
+(9) If you catch a bug, send it to me via email, github! It will be fixed ASAP!
 
-![image](https://user-images.githubusercontent.com/78812716/180656649-35ddfd35-e9d4-44e3-adf5-45359538f55b.png)
+![image](https://user-images.githubusercontent.com/78812716/180656742-e4f56819-ef9a-46b6-a484-c438d0809219.png)
 
 (10) To open settings window, double click on the app icon or right click -> settings. 
 
