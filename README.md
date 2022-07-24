@@ -61,7 +61,8 @@ Example:
 # V - Troubleshoot connection issues
 
 1) Make sure that you’re currently connected to a local network.
-2) Try refreshing connection settings  . 
-3) Make sure that Reaper OSC settings match RVC connection settings. (You may have inverted Reaper and RVC ports, try to switch them).
-4) Restart RVC.
-After following these steps, the connection is still not established, please report it as a bug, with following infos: Settings 
+2) Verify that your antivirus / firewall is not blocking the app.
+3) Try refreshing connection settings.
+4) Make sure that Reaper OSC settings match RVC connection settings. (You may have inverted Reaper and RVC ports, try to switch them).
+5) Restart RVC.
+After following these steps, the connection is still not established, please report it as a bug.
