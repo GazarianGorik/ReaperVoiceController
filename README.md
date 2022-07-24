@@ -1,14 +1,15 @@
 # I - Setup
 
-1)	Launch Reaper
-2)	Go to Options -> Preferences -> Control/OSC/Web
-3)	Click add
-4)	Under Control surface mode, select OSC (Open Sound Control)
-5)	Write your device name
-6)	Under Mode, select Configure device IP + local Port
-7)	Launch RVC and copy / past corresponding IP and Ports.
-8)	Check Allow binding message to REAPER actions and FX learn
-9)	Profit!
+1)	Launch Reaper.
+2)	Go to Options -> Preferences -> Control/OSC/Web.
+3)	Click add.
+4)	Under Control surface mode, select OSC (Open Sound Control).
+5)	Write any "device" name, (ex: "RVC").
+6)	Under Mode, select Configure device IP + local Port.
+7)	Launch RVC and copy / paste corresponding IP and Ports.
+8)	Check "Allow binding message to REAPER actions and FX learn" option.
+9)	Launch Reaper Voice Controller to add optional action to Reaper, which will allow you to check connection between the app and Reaper.
+10)	Profit!
 
 ![image](https://user-images.githubusercontent.com/78812716/180656634-26f43828-4540-4a6a-9931-2d8ca84d71dc.png)
 
