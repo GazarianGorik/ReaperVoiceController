@@ -1,4 +1,4 @@
-# RVCBuilds
+# 1-Setup
 
 1)	Launch Reaper
 2)	Go to Options -> Preferences -> Control/OSC/Web
@@ -11,3 +11,6 @@
 9)	Profit!
 
 ![image](https://user-images.githubusercontent.com/78812716/180656309-7adb2097-0392-46ce-8e09-0f00505193fb.png)
+Note: Your IP or/and ports will probably be different, follow step 7).
+
+# 1 - Settings window
