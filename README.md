@@ -58,3 +58,10 @@ os.execute(strCmd)
 Example:  
 ![image](https://user-images.githubusercontent.com/78812716/180656487-40391961-f901-4853-8989-fe99f359d6ee.png)
 
+# V - Troubleshoot connection issues
+
+1) Make sure that you’re currently connected to a local network.
+2) Try refreshing connection settings  . 
+3) Make sure that Reaper OSC settings match RVC connection settings. (You may have inverted Reaper and RVC ports, try to switch them).
+4) Restart RVC.
+After following these steps, the connection is still not established, please report it as a bug, with following infos: Settings 
