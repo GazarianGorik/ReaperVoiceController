@@ -4,3 +4,17 @@ v 0.2 :
 - New update system (fully automatic)
 - Bug fixes
 - Versioning system simplified
+
+
+🛑 OLDER VERSIONS WILL CRASH 🛑  (They are not available anymore...)
+
+v 0.0.1.1 :
+- No more Popup flood
+- "Check connection" system improved
+- Donate button added
+
+v 0.0.1.0 :
+- App now holds in a single .exe
+- New Popup system
+- Auto hide option added
+- Auto find port system improved
