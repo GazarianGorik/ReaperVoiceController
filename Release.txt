@@ -4,5 +4,3 @@ Release note:
 - No more Popup flood 🎶 À la queuleuleu... 🎶
 - "Check connection" system improved
 - Donate button 😇
-
-Update now ?
