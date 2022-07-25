@@ -1,6 +1,3 @@
-<https://github.com/GazarianGorik/ReaperVoiceController/raw/main/ReaperVoiceController.exe>
-
-
 v 0.0.1.1 :
 - No more Popup flood 🎶 À la queuleuleu... 🎶
 - "Check connection" system improved
