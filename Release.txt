@@ -1,4 +1,4 @@
-v 0.2.0 :
+v 0.2.0.0 :
 - Doc moved to github page
 - Commands treshold settings added
 - New update system (fully automatic)
