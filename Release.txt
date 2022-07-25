@@ -1,4 +1,4 @@
-v 1.2.0.0 :
+v 1.2 :
 - No more Popup flood 🎶 À la queuleuleu... 🎶
 - "Check connection" system improved
 - Donate button 😇
