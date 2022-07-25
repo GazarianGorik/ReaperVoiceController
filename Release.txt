@@ -1,4 +1,10 @@
-v 1.3 :
+v 0.2 :
+- Doc moved to github page
+- Commands treshold settings added
+- New update system (fully automatic)
+- Bug fixes
+
+v 0.1 :
 - No more Popup flood 🎶 À la queuleuleu... 🎶
 - "Check connection" system improved
 - Donate button 😇
