@@ -11,7 +11,7 @@
 9) Launch Reaper Voice Controller to add optional action to Reaper, which will allow you to check connection between the app and Reaper.
 10) Profit!
 
-![image](https://user-images.githubusercontent.com/78812716/180656634-26f43828-4540-4a6a-9931-2d8ca84d71dc.png)
+![image](https://user-images.githubusercontent.com/78812716/181013405-d3c513e4-3f33-4805-b220-933ef10a493f.png)
 
 Note: Your IP or/and ports will probably be different, follow step 7).
 
