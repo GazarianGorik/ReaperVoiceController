@@ -12,8 +12,8 @@
 10) Profit!
 <p align="center">
 <img width="559" height="432" src="https://user-images.githubusercontent.com/78812716/181014274-1a6ac2b5-fed2-4a8d-a97a-9bc94e5ef70f.png">
-</p>
 Note: Your IP or/and ports will probably be different, follow step 7).
+</p>
 
 # II - Settings window
 ![image](https://user-images.githubusercontent.com/78812716/180657117-fd099b31-b895-42c7-91e4-552f5bda8ea2.png)
