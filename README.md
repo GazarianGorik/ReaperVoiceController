@@ -11,7 +11,7 @@
 9) Launch Reaper Voice Controller to add optional action to Reaper, which will allow you to check connection between the app and Reaper.
 10) Profit!
 <p align="center">
-  <img width="460" height="300" src="[https://user-images.githubusercontent.com/78812716/181013405-d3c513e4-3f33-4805-b220-933ef10a493f.png]">
+  <img width="460" height="300" src="[[https://user-images.githubusercontent.com/78812716/181013405-d3c513e4-3f33-4805-b220-933ef10a493f.png](https://user-images.githubusercontent.com/78812716/180656487-40391961-f901-4853-8989-fe99f359d6ee.png)]">
 </p>
 Note: Your IP or/and ports will probably be different, follow step 7).
 
