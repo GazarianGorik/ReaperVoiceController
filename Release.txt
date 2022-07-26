@@ -4,9 +4,10 @@ v 0.2.0.0 :
 - New update system (fully automatic)
 - Bug fixes
 - Versioning system simplified
+- Update progress bar temporaly removed (it sometimes causes crash)
 
 
-🛑 OLDER VERSIONS WILL CRASH AT STARTUP 🛑  (They are not available anymore...)
+🛑 OLDER VERSIONS WILL CRASH ON STARTUP 🛑  (They are not available anymore...)
 
 v 0.0.1.1 :
 - No more Popup flood
