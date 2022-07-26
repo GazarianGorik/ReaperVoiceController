@@ -9,7 +9,7 @@
 7) Launch RVC and copy / paste corresponding IP and Ports.
 8) Check "Allow binding message to REAPER actions and FX learn" option.
 9) Launch Reaper Voice Controller to add optional action to Reaper, which will allow you to check connection between the app and Reaper.
-10)	Profit!
+10) Profit!
 
 ![image](https://user-images.githubusercontent.com/78812716/180656634-26f43828-4540-4a6a-9931-2d8ca84d71dc.png)
 
