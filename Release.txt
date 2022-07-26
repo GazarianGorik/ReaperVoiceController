@@ -4,7 +4,7 @@ v 0.2.0.0 :
 - New update system (fully automatic)
 - Bug fixes
 - Versioning system simplified
-- Update progress bar temporaly removed (it sometimes causes crash)
+- Update progress bar temporaly removed (sometimes causes crashes)
 
 
 🛑 OLDER VERSIONS WILL CRASH ON STARTUP 🛑  (They are not available anymore...)
