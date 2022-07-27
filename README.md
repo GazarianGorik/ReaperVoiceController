@@ -20,7 +20,7 @@ Note: Your IP or/and ports will probably be different, follow step 7).
 
 # II - Settings window
 <p align="center">
-<img width="250" height="248" src="https://user-images.githubusercontent.com/78812716/181274050-789ad061-299a-4934-9943-55d8bbc9d9bd.png">
+<img width="466" height="463" src="https://user-images.githubusercontent.com/78812716/181275378-d2932c08-bcce-44f7-9404-668b5cfb93ac.png">
 </p>  
 
 (1) Settings status: Shows the current state of settings. To save settings you only need to press enter or un-focus the text box you’re editing. Other settings are automatically saved after changes.
