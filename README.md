@@ -5,15 +5,15 @@
 - [.Net 6.0.5 (x86)](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
 
 # I - Setup 
-1) [Download](https://github.com/GazarianGorik/ReaperVoiceController/raw/main/ReaperVoiceController.zip) and extract the app.
-2) Launch Reaper.
+1) **[Download](https://github.com/GazarianGorik/ReaperVoiceController/raw/main/ReaperVoiceController.zip)** and extract the app.
+2) Launch *REAPER*.
 3) Go to *Options* -> *Preferences* -> *Control/OSC/Web* and click *Add*
-4) Under Control surface mode, select OSC (Open Sound Control).
-5) Write any "device" name, (ex: "RVC").
-6) Under Mode, select Configure device IP + local Port.
-7) Launch RVC and copy / paste corresponding IP and Ports (you can change them if you need to).
-8) Check "Allow binding message to REAPER actions and FX learn" option.
-9) Launch Reaper Voice Controller, the app will ask you if you want to add optional action to Reaper, which will allow you to check connection between the app and REAPER.
+4) Under *Control surface mode*, select *OSC (Open Sound Control)*.
+5) Write any "device" name, (ex: *RVC*).
+6) Under *Mode*, select *Configure device IP + local Port*.
+7) Launch *RVC* and copy / paste corresponding IP and Ports (you can change them if you need to).
+8) Check *Allow binding message to REAPER actions and FX learn* option.
+9) Launch *RVC*, the app will ask you if you want to add optional action to Reaper, which will allow you to check connection between the app and *REAPER*.
 10) Profit!
 
 <p align="center">
