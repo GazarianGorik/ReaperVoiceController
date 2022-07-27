@@ -35,8 +35,8 @@ Note: You can set ports manually. It’s recommended to use values between 1025 
 
 IMPORTANT NOTE: If you change any connection settings (IP address or ports), you must change them on Reaper side too. Like you’ve done on step 7) of [I - Setup](https://github.com/GazarianGorik/ReaperVoiceController/blob/main/README.md#i---setup).
 
-(5) This value defines how stric the command detection algorithm is. Accepted value are between 0.1 and 1 (included).
-With a too low value, some commands can be triggered if you say something close to the command, but with a too high value, you may have to repeat some commands if your accent is not perfect like mine...😞 
+(5) This value defines how strict the command detection algorithm is. Accepted value are between 0.1 and 1 (included).
+With a too low value, some commands can be triggered even if you don't say the exact command, but with a too high value, you may have to repeat some commands if your accent is not perfect like mine...😞 
 
 (6) You can check this box to automatically hide app (settings window) when it’s launched.
 
