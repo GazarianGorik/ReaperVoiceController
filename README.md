@@ -56,7 +56,7 @@ To do so, you need to open and edit commands.csv file from toolbar context menu.
 This will automatically open the file in your default .csv file editor (like Excel) and pause the app until you finish editing and CLOSE the file.
 
 <p align="center">
-<img width="524" height="226" src="https://user-images.githubusercontent.com/78812716/180656504-a42afbcf-cf97-4990-ad6e-3fb670ff081b.png">
+<img width="524" height="73" src="https://user-images.githubusercontent.com/78812716/180656504-a42afbcf-cf97-4990-ad6e-3fb670ff081b.png">
 </p>  
 
 The first column is dedicated to voice commands (it’s recommended to use a pattern (default one is “ok reaper”, to not trigger commands when you talk to someone, or alone… ).
