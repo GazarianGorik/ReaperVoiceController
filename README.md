@@ -67,6 +67,7 @@ This will automatically open the file in your default .csv file editor (like Exc
 </p>  
 
 The first column is dedicated to voice commands (it’s recommended to use a pattern (default one is “ok reaper”, to not trigger commands when you talk to someone, or alone… 🥲).
+
 The second column is for OSC addresses and the third one for OSC arguments. More details about how Reaper use OSC messages in Default.ReaperOSC (win + R => “%appdata%\REAPER\OSC”).
 Note: The first line of commands.csv is ignored by the app, don’t use it!
 
