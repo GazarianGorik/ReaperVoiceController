@@ -1,4 +1,5 @@
-V 1.0
+***Version 0.1***
+
 # I - Setup
 
 1) Launch Reaper.
