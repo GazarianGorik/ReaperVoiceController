@@ -3,8 +3,6 @@ v 0.1 :
 - Commands treshold settings added
 - New update system (fully automatic)
 - Bug fixes
-- Versioning system simplified
-- Update progress bar temporaly removed (sometimes causes crashes)
 
 
 🛑 OLDER VERSIONS WILL CRASH ON STARTUP 🛑  (They are not available anymore...)
