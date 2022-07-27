@@ -33,7 +33,7 @@ Note: Your IP or/and ports will probably be different, follow step 7).
 
 Note: You can set ports manually. It’s recommended to use values between 1025 and 65535. Just keep in mind that to allow connection between Reaper and RVC, both ports need to be free and different.
 
-IMPORTANT NOTE: If you change any connection settings (IP address or ports), you must change them on Reaper side too. Like you’ve done on step 7) of [I - Setup].
+IMPORTANT NOTE: If you change any connection settings (IP address or ports), you must change them on Reaper side too. Like you’ve done on step 7) of [I - Setup](https://github.com/GazarianGorik/ReaperVoiceController/blob/main/README.md#i---setup).
 
 (5) This value defines how stric the command detection algorithm is. Accepted value are between 0.1 and 1 (included).
 With a too low value, some commands can be triggered if you say something close to the command, but with a too high value, you may have to repeat some commands if your accent is not perfect like mine...😞 
