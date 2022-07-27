@@ -1,13 +1,13 @@
 ✔️ Newest version ✔️
-v 0.1 :
+v 0.2 :
 - Doc moved to github page
 - Commands treshold settings added
 - New update system (fully automatic)
 - Bug fixes
 
 
-⚠️ Older versions, you may want to rollback if some critical bugs happens with newest version ⚠️
-
+⚠️ Older versions ⚠️ 
+No version yet.
 
 
 🛑 List of broken versions (not available anymore du to many crashes) 🛑 
