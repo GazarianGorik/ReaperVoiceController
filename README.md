@@ -43,7 +43,9 @@ IMPORTANT NOTE: If you change any connection settings (IP address or ports), you
 
 (9) If you catch a bug, send it to me via email, github! It will be fixed ASAP!
 
-![image](https://user-images.githubusercontent.com/78812716/180656742-e4f56819-ef9a-46b6-a484-c438d0809219.png)
+<p align="center">
+<img width="339" height="216" src="https://user-images.githubusercontent.com/78812716/181276200-af8a32e6-be1f-44a6-bbd6-de298b7fd60a.png">
+</p>  
 
 (10) To open settings window, double click on the app icon or right click -> settings. 
 
