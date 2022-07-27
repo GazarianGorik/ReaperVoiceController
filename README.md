@@ -1,3 +1,4 @@
+V 1.0
 # I - Setup
 
 1) Launch Reaper.
@@ -44,9 +45,9 @@ With a too low value, some commands can be triggered even if you don't say the e
 
 (8) Reset commands (not undoable!)
 
-(9) If you have any connection troubles or want to check the connection between Reaper and RVC, click this refresh button. More details about connection troubleshooting here V - Troubleshoot connection issues
+(9) If you have any connection troubles or want to check the connection between Reaper and RVC, click this refresh button. More details about connection troubleshooting here [V - Troubleshoot connection issues](https://github.com/GazarianGorik/ReaperVoiceController/blob/main/README.md#v---troubleshoot-connection-issues)
 
-(10) If you catch a bug, send it to me via email, github! It will be fixed ASAP!
+(10) If you catch a bug, send it to me via email or github! It will be fixed ASAP!
 
 <p align="center">
 <img width="339" height="216" src="https://user-images.githubusercontent.com/78812716/181276200-af8a32e6-be1f-44a6-bbd6-de298b7fd60a.png">
@@ -54,18 +55,19 @@ With a too low value, some commands can be triggered even if you don't say the e
 
 (11) To open settings window, double click on the app icon or right click -> settings. 
 
-(12) To turn On / Off RVC, click on the app icon. 
+(12) To turn On / Off command detection, click on the app icon. 
 
 # III - Add / Edit vocal commands
-To do so, you need to open and edit commands.csv file from toolbar context menu. Right click on RVC icon and click on Edit commands.csv.
-This will automatically open the file in your default .csv file editor (like Excel) and pause the app until you finish editing and CLOSE the file.
+To do so, you need to open and edit commands.csv file from toolbar context menu. Right click on RVC icon and click on *Edit commands.csv*.
+This will automatically open the file in your default .csv file editor (like Excel) and pause the app until you finish editing and **CLOSE** the file.
 
 <p align="center">
 <img width="524" height="226" src="https://user-images.githubusercontent.com/78812716/180656504-a42afbcf-cf97-4990-ad6e-3fb670ff081b.png">
 </p>  
 
-The first column is dedicated to voice commands (it’s recommended to use a pattern (default one is “ok reaper”, to not trigger commands when you talk to someone, or alone… ).
-The second column is for OSC addresses and the third one for OSC arguments. More details about how Reaper use OSC messages in Default.ReaperOSC (win + R => “%appdata%\REAPER\OSC”). Note: The first line of this file is ignored, don’t use it!
+The first column is dedicated to voice commands (it’s recommended to use a pattern (default one is “ok reaper”, to not trigger commands when you talk to someone, or alone… 🥲).
+The second column is for OSC addresses and the third one for OSC arguments. More details about how Reaper use OSC messages in Default.ReaperOSC (win + R => “%appdata%\REAPER\OSC”).
+Note: The first line of commands.csv is ignored by the app, don’t use it!
 
 # IV - Open RVC from Reaper
 
@@ -88,4 +90,5 @@ Example:
 3) Try refreshing connection settings.
 4) Make sure that Reaper OSC settings match RVC connection settings. (You may have inverted Reaper and RVC ports, try to switch them).
 5) Restart RVC.
+
 After following these steps, if the connection is still not established, please report it as a bug.
