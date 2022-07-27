@@ -7,7 +7,7 @@
 # I - Setup 
 1) [Download](https://github.com/GazarianGorik/ReaperVoiceController/raw/main/ReaperVoiceController.zip) and extract the app.
 2) Launch Reaper.
-3) Go to Options -> Preferences -> Control/OSC/Web and click Add
+3) Go to *Options* -> *Preferences* -> *Control/OSC/Web* and click *Add*
 4) Under Control surface mode, select OSC (Open Sound Control).
 5) Write any "device" name, (ex: "RVC").
 6) Under Mode, select Configure device IP + local Port.
