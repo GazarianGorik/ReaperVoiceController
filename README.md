@@ -71,7 +71,7 @@ os.execute(strCmd)
 
 Example:  
 <p align="center">
-<img width="524" height="226" src="https://user-images.githubusercontent.com/78812716/180656487-40391961-f901-4853-8989-fe99f359d6ee.png">
+<img width="917" height="226" src="https://user-images.githubusercontent.com/78812716/180656487-40391961-f901-4853-8989-fe99f359d6ee.png">
 </p>  
 
 # V - Troubleshoot connection issues
