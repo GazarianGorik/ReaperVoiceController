@@ -1,7 +1,9 @@
 # I - Setup
 
 _1) Launch Reaper._
+
 _2) Go to Options -> Preferences -> Control/OSC/Web._
+
 _3) Click add._
 _4) Under Control surface mode, select OSC (Open Sound Control)._
 _5) Write any "device" name, (ex: "RVC").
