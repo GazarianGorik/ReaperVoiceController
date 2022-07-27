@@ -2,7 +2,7 @@
 
 #  Requierement
 - Windows 7, 8, 10 (and probably 11, not tested yet)
-- .Net 6.0.5 (x86) you can [download it here](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
+- [.Net 6.0.5 (x86)](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
 
 # I - Setup 
 1) Launch Reaper.
