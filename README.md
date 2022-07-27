@@ -5,6 +5,7 @@
 - [.Net 6.0.5 (x86)](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
 
 # I - Setup 
+0) [Download]()
 1) Launch Reaper.
 2) Go to Options -> Preferences -> Control/OSC/Web.
 3) Click add.
