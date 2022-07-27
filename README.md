@@ -1,9 +1,9 @@
 # I - Setup
 
-_1) Launch Reaper.
-_2) Go to Options -> Preferences -> Control/OSC/Web.
-_3) Click add.
-_4) Under Control surface mode, select OSC (Open Sound Control).
+_1) Launch Reaper._
+_2) Go to Options -> Preferences -> Control/OSC/Web._
+_3) Click add._
+_4) Under Control surface mode, select OSC (Open Sound Control)._
 _5) Write any "device" name, (ex: "RVC").
 _6) Under Mode, select Configure device IP + local Port.
 _7) Launch RVC and copy / paste corresponding IP and Ports (you can change them if you need to).
