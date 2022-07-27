@@ -33,23 +33,26 @@ Note: Your IP or/and ports will probably be different, follow step 7).
 Note: You can also set ports manually. It’s recommended to use values between 1025 and 65535. Just keep in mind that to allow connection between Reaper and RVC, both ports need to be free and different.
 IMPORTANT NOTE: If you change any connection settings (IP address or ports), you must change them on Reaper side too. Like you’ve done on step 7) of I - Setup.
 
-(5) You can check this box to automatically hide app (settings window) when it’s launched.
+(5) This value defines how stric the command detection algorithm is. Accepted value are between 0.1 and 1 (included).
+With too low a value, some commands can be triggered if you say something close to the command, but with too high a value, you may have to repeat some commands if your accent is not perfect like mine...😞 
 
-(6) Reset settings (not undoable!)
+(6) You can check this box to automatically hide app (settings window) when it’s launched.
 
-(7) Reset commands (not undoable!)
+(7) Reset settings (not undoable!)
 
-(8) If you have any connection troubles or want to check the connection between Reaper and RVC, click this refresh button. More details about connection troubleshooting here V - Troubleshoot connection issues
+(8) Reset commands (not undoable!)
 
-(9) If you catch a bug, send it to me via email, github! It will be fixed ASAP!
+(9) If you have any connection troubles or want to check the connection between Reaper and RVC, click this refresh button. More details about connection troubleshooting here V - Troubleshoot connection issues
+
+(10) If you catch a bug, send it to me via email, github! It will be fixed ASAP!
 
 <p align="center">
 <img width="339" height="216" src="https://user-images.githubusercontent.com/78812716/181276200-af8a32e6-be1f-44a6-bbd6-de298b7fd60a.png">
 </p>  
 
-(10) To open settings window, double click on the app icon or right click -> settings. 
+(11) To open settings window, double click on the app icon or right click -> settings. 
 
-(11) To turn On / Off RVC, click on the app icon. 
+(12) To turn On / Off RVC, click on the app icon. 
 
 # III - Add / Edit vocal commands
 To do so, you need to open and edit commands.csv file from toolbar context menu. Right click on RVC icon and click on Edit commands.csv.
