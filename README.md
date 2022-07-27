@@ -5,7 +5,7 @@
 - [.Net 6.0.5 (x86)](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
 
 # I - Setup 
-1) [Download](https://github.com/GazarianGorik/ReaperVoiceController/raw/main/ReaperVoiceController.zip)
+1) [Download](https://github.com/GazarianGorik/ReaperVoiceController/raw/main/ReaperVoiceController.zip) and extract the app.
 2) Launch Reaper.
 3) Go to Options -> Preferences -> Control/OSC/Web and click Add
 4) Under Control surface mode, select OSC (Open Sound Control).
