@@ -67,7 +67,9 @@ The second column is for OSC addresses and the third one for OSC arguments. More
 You can create a toolbar button in Reaper, from which you can open RVC. To do so, create a new Reascript action, copy/paste the following lines, and replace strProgram by the path from which you run RVC (with the correct drive letter).
 
 strProgram = '"X:\\Folder\\AnotherFolder\\ReaperVoiceController.exe"'
+
 strCmd = 'start "" '..strProgram
+
 os.execute(strCmd)
 
 Example:  
