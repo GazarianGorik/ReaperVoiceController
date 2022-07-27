@@ -1,3 +1,4 @@
+✔️ Newest version ✔️
 v 0.1 :
 - Doc moved to github page
 - Commands treshold settings added
@@ -5,7 +6,11 @@ v 0.1 :
 - Bug fixes
 
 
-🛑 OLDER VERSIONS WILL CRASH ON STARTUP 🛑  (They are not available anymore...)
+⚠️ Older versions, you may want to rollback if some critical bugs happens with newest version ⚠️
+
+
+
+🛑 List of broken versions (not available anymore du to many crashes) 🛑 
 
 v 0.0.1.1 :
 - No more Popup flood
