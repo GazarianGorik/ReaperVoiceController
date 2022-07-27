@@ -29,12 +29,13 @@ Note: Your IP or/and ports will probably be different, follow step 7).
 
 (3) VRC Port: It’s the port used by VRC to receive Reaper’s OSC messages. 
 
-(4) Reaper Port: It’s the port used by Reaper to receive VRC OSC messages. 
-Note: You can also set ports manually. It’s recommended to use values between 1025 and 65535. Just keep in mind that to allow connection between Reaper and RVC, both ports need to be free and different.
-IMPORTANT NOTE: If you change any connection settings (IP address or ports), you must change them on Reaper side too. Like you’ve done on step 7) of I - Setup.
+(4) Reaper Port: It’s the port used by Reaper to receive VRC OSC messages.
+
+Note: You can set ports manually. It’s recommended to use values between 1025 and 65535. Just keep in mind that to allow connection between Reaper and RVC, both ports need to be free and different.
+<u>IMPORTANT NOTE<u>: If you change any connection settings (IP address or ports), you must change them on Reaper side too. Like you’ve done on step 7) of [I - Setup].
 
 (5) This value defines how stric the command detection algorithm is. Accepted value are between 0.1 and 1 (included).
-With too low a value, some commands can be triggered if you say something close to the command, but with too high a value, you may have to repeat some commands if your accent is not perfect like mine...😞 
+With a too low value, some commands can be triggered if you say something close to the command, but with a too high value, you may have to repeat some commands if your accent is not perfect like mine...😞 
 
 (6) You can check this box to automatically hide app (settings window) when it’s launched.
 
