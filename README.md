@@ -7,7 +7,6 @@ The app loads a CSV file (editable) which contains voice commands and REAPER act
 #  Requierement
 - Windows 7, 8, 10 (and probably 11, not tested yet)
 - [.Net 6.0.5 (x86)](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
-- A microphone and [REAPER](https://www.reaper.fm/)
 
 # I - Setup 
 1) **[Download](https://github.com/GazarianGorik/ReaperVoiceController/raw/main/ReaperVoiceController.zip)** and extract the app.
