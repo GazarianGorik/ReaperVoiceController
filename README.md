@@ -2,6 +2,7 @@
 This app allows you to trigger REPAER's actions through voice commands.
 
 How it works?
+
 The app loads a CSV file (editable) which contains voice commands and REAPER actions. Commands are detect thanks to Windows Speech Recognition Engine (offline) and send the write command trough OSC protocol to REAPER.
 
 #  Requierement
