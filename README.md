@@ -58,7 +58,7 @@ With a too low value, some commands can be triggered even if you don't say the e
 (10) If you catch a bug, send it to me via email or github! It will be fixed ASAP!
 
 <p align="center">
-<img width="339" height="216" src="https://user-images.githubusercontent.com/78812716/181276200-af8a32e6-be1f-44a6-bbd6-de298b7fd60a.png">
+<img width="307" height="195" src="https://user-images.githubusercontent.com/78812716/181558275-ceaffc32-0bed-4540-b53d-d8a0e5066453.png">
 </p>  
 
 (11) To open settings window, double click on the app icon or right click -> settings. 
