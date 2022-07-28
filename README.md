@@ -1,8 +1,13 @@
-***Version 0.1***
+# **Reaper Voice Controller *(Version 0.1)***
+This app allows you to trigger REPAER's actions through voice commands.
+
+How it works?
+The app loads a CSV file (editable) which contains voice commands and REAPER actions. Commands are detect thanks to Windows Speech Recognition Engine (offline) and send the write command trough OSC protocol to REAPER.
 
 #  Requierement
 - Windows 7, 8, 10 (and probably 11, not tested yet)
 - [.Net 6.0.5 (x86)](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
+- A microphone and [REAPER](https://www.reaper.fm/)
 
 # I - Setup 
 1) **[Download](https://github.com/GazarianGorik/ReaperVoiceController/raw/main/ReaperVoiceController.zip)** and extract the app.
