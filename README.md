@@ -22,12 +22,12 @@ Note : Windows Defender may be triggered when you launch the app for the first t
 
 <p align="center">
 <img width="500" height="468" src="https://user-images.githubusercontent.com/78812716/181577145-cc26d9fb-4171-4618-86cd-71f2731bf067.png">
-</p>  
+</p>  🥖
 <p align="center">
 
 <p align="center">
 <img width="500" height="468" src="https://user-images.githubusercontent.com/78812716/181577223-7269879f-7c50-4ef9-8f45-c3d535ba66d5.png">
-</p>  
+</p>  🧀
 <p align="center">
 
 
