@@ -4,14 +4,15 @@ v 0.1 :
 - Commands treshold settings added
 - New update system (fully automatic)
 - Microphone input level and infos added to settings window
-- Bug fixes
+- Bug fixes (App crash on startup, cvs file not reloaded after changes, etc.)
 
 
 ⚠️ Older versions ⚠️ 
-(no version available)
+(empty history)
 
 
-🛑 List of broken versions (not available anymore due  to many crashes) 🛑 
+🛑 Broken versions 🛑 
+(not available anymore due to many crashes)
 
 v 0.0.1.1 :
 - No more Popup flood
