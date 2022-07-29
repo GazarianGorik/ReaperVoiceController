@@ -11,7 +11,7 @@ v 0.1 :
 (no version available)
 
 
-🛑 List of broken versions (not available anymore du to many crashes) 🛑 
+🛑 List of broken versions (not available anymore due  to many crashes) 🛑 
 
 v 0.0.1.1 :
 - No more Popup flood
