@@ -1,5 +1,5 @@
 ✔️ Newest version ✔️
-v 0.3 :
+v 0.1 :
 - Doc moved to github page
 - Commands treshold settings added
 - New update system (fully automatic)
