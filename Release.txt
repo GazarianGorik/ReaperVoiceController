@@ -8,7 +8,7 @@ v 0.1 :
 
 
 ⚠️ Older versions ⚠️ 
-No version yet.
+(no version available)
 
 
 🛑 List of broken versions (not available anymore du to many crashes) 🛑 
