@@ -3,6 +3,7 @@ v 0.1 :
 - Doc moved to github page
 - Commands treshold settings added
 - New update system (fully automatic)
+- Microphone input level and infos added to settings window
 - Bug fixes
 
 
