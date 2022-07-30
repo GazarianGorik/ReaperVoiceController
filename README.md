@@ -2,7 +2,7 @@
 This app allows you to trigger REAPER's actions through voice commands.
 
 # How it works?
-The app loads a CSV file (editable) which contains voice commands and REAPER actions. Commands are detected using the Windows speech recognition engine (offline) and actions are sent to REAPER via OSC protocol.
+The app loads a CSV file (editable) which contains some default voice commands and REAPER actions. Commands are detected using the Windows speech recognition engine (offline, and using your default audio device) and actions are sent to REAPER via OSC protocol.
 
 #  Requierement
 - Windows 7, 8, 10 (and probably 11, not tested yet)
@@ -65,7 +65,7 @@ Note: You can set ports manually. It’s recommended to use values between 1025 
 IMPORTANT NOTE: If you change any connection settings (IP address or ports), you must change them on REAPER too. Like you’ve done on step 7) of [I - Setup](https://github.com/GazarianGorik/ReaperVoiceController/blob/main/README.md#i---setup).
 
 (5) This value defines how strict the command detection algorithm is. Accepted value are between 0.1 and 1 (included).
-With a too low value, some commands could be triggered even if you don't say the exact command, but with a too high value, you may have to repeat some commands if your accent is not perfect, (like mine... 🙃)
+With a too low value, some commands could be triggered even if you don't say the exact command, but with a too high value, you may have to repeat some commands if your microphone is not good enough (ex: laptop built-in mic).
 
 (6) You can check this box to automatically hide app (settings window) when the app starts.
 
