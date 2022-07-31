@@ -48,7 +48,7 @@ Note : Windows Defender may be triggered when you launch the app for the first t
 Note: Your IP or/and ports will probably be different, follow step 7).
 </p>
 
-# II - ⚙️ Settings window ⚙️
+# II - Settings window 
 <p align="center">
 <img width="406" height="403" src="https://user-images.githubusercontent.com/78812716/181275378-d2932c08-bcce-44f7-9404-668b5cfb93ac.png">
 </p>  
@@ -114,7 +114,7 @@ Example:
 <img width="917" height="73" src="https://user-images.githubusercontent.com/78812716/180656487-40391961-f901-4853-8989-fe99f359d6ee.png">
 </p>  
 
-# V - 📡 Troubleshoot connection issues 📡
+# V - Troubleshoot connection issues 📡
 1) Make sure that you’re currently connected to a local network.
 2) Verify that your antivirus / firewall is not blocking the app.
 3) Try refreshing connection settings.
@@ -124,7 +124,7 @@ Example:
 After following these steps, if the connection is still not established, please report it as a bug.
 
 
-# VI - 🤖 Troubleshoot commands issues 🤖
+# VI - Troubleshoot commands issues
 If nothing happens :
 1) Make sure that the app hear you (blue part of input level bar moves when you talk).
 2) Open .csv file to verify that your command is correct.
