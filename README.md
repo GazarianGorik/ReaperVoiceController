@@ -126,5 +126,7 @@ After following these steps, if the connection is still not established, please 
 
 # VI - Troubleshoot commands issues
 If nothing happens :
-1) Make sure that the app hear you (input level bar)
-2) 
+1) Make sure that the app hear you (blue part of input level bar moves).
+2) Open .csv file to verify that your command is correct.
+3) Make sure that the app is connected to REAPER
+4) If you see an error message "Speech recognition problem" too many time, but you have already run windows speech recognition voice training, then try reduce  recognition treshold value. If the value is already under 0.6, this is probably due to poor quality microphone, 
