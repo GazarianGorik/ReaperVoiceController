@@ -115,7 +115,6 @@ Example:
 </p>  
 
 # V - Troubleshoot connection issues
-
 1) Make sure that you’re currently connected to a local network.
 2) Verify that your antivirus / firewall is not blocking the app.
 3) Try refreshing connection settings.
@@ -123,3 +122,9 @@ Example:
 5) Restart RVC.
 
 After following these steps, if the connection is still not established, please report it as a bug.
+
+
+# VI - Troubleshoot commands issues
+If nothing happens :
+1) Make sure that the app hear you (input level bar)
+2) 
