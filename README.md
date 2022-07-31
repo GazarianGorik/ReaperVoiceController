@@ -114,7 +114,7 @@ Example:
 <img width="917" height="73" src="https://user-images.githubusercontent.com/78812716/180656487-40391961-f901-4853-8989-fe99f359d6ee.png">
 </p>  
 
-# V - Troubleshoot connection issues 📡
+# V - Troubleshoot connection issues
 1) Make sure that you’re currently connected to a local network.
 2) Verify that your antivirus / firewall is not blocking the app.
 3) Try refreshing connection settings.
