@@ -7,7 +7,7 @@ The app loads a CSV file (editable) which contains some default voice commands a
 #  Requierement
 - Windows 7, 8, 10 or 11 (Not tested yet on Windows 7 and 8)
 - [.Net 6.0.5 (x86)](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
-- (Recommended) [Train your Windows speech recognition](https://support.microsoft.com/en-us/windows/use-voice-recognition-in-windows-83ff75bd-63eb-0b6c-18d4-6fae94050571#WindowsVersion=Windows_10) to get better results
+- (Strongly recommended) [Train your Windows speech recognition](https://support.microsoft.com/en-us/windows/use-voice-recognition-in-windows-83ff75bd-63eb-0b6c-18d4-6fae94050571#WindowsVersion=Windows_10) to get better results
 
 # I - Setup 
 1) **[Download](https://github.com/GazarianGorik/ReaperVoiceController/raw/main/ReaperVoiceController.zip)** and extract the app.
