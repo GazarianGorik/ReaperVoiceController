@@ -134,5 +134,5 @@ If command detection is not accurate enough:
 1) Try with a clearer pronunciation
 2) Try to reduce background noise
 3) Use a better microphone if possible
-4) Run windows speech recognition voice training if not already done
+4) Run windows speech recognition voice training if not already done (then restart the app!)
 5) Try with a lower recognition treshold value (less than 0.6 is not recommended)
