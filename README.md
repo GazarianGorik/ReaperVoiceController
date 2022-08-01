@@ -1,8 +1,7 @@
 # **Reaper Voice Controller** *(v 0.1)*
 This app allows you to trigger REAPER's actions through voice commands.
 
-
-Demo:
+# Demo
 [![REAPER Voice Controller (v0.1 Beta)](https://yt-embed.herokuapp.com/embed?v=h8PgVAXEntg)](https://www.youtube.com/watch?v=h8PgVAXEntg "REAPER Voice Controller (v0.1 Beta)")
 
 # How it works?
