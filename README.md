@@ -1,4 +1,4 @@
-# **Reaper Voice Controller** *(v 0.1)*
+# **Reaper Voice Controller** *(v 0.1) (COMMING SOON...)*
 This app allows you to trigger REAPER's actions through voice commands.
 
 # Demo
