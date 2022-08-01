@@ -109,6 +109,7 @@ The second column is for OSC addresses and the third one for OSC arguments. More
 Note: The first line of commands.csv is ignored by the app, don’t use it!
 
 To add assign a custom action to a command replace [your command name] and [your action ID]:
+
 [your command name] | /action/[your action ID] | ACTION
 
 # IV - Open RVC from Reaper (OPTIONAL)
