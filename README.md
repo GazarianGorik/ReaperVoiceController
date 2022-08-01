@@ -48,7 +48,7 @@ Note : Windows Defender may be triggered when you launch the app for the first t
 Note: Your IP or/and ports will probably be different, follow step 7).
 </p>
 
-# II - Settings window 
+# II - Settings window (OUT OF DATE)
 <p align="center">
 <img width="406" height="403" src="https://user-images.githubusercontent.com/78812716/181275378-d2932c08-bcce-44f7-9404-668b5cfb93ac.png">
 </p>  
