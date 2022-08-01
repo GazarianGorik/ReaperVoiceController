@@ -96,6 +96,8 @@ More details about connection troubleshooting here [V - Troubleshoot connection 
 To do so, you need to open and edit commands.csv file from toolbar context menu. Right click on RVC icon and click on *Edit commands.csv*.
 This will automatically open the file in your default .csv file editor (like Excel) and pause the app until you finish editing and **CLOSE** the file.
 
+You can remove default commands and add your own commands.
+
 <p align="center">
 <img width="524" height="226" src="https://user-images.githubusercontent.com/78812716/180656504-a42afbcf-cf97-4990-ad6e-3fb670ff081b.png">
 </p>  
@@ -105,6 +107,9 @@ The first column is dedicated to voice commands (it’s recommended to use a pat
 The second column is for OSC addresses and the third one for OSC arguments. More details about how REAPER use OSC messages in Default.ReaperOSC file (win + R => “%appdata%\REAPER\OSC”).
 
 Note: The first line of commands.csv is ignored by the app, don’t use it!
+
+To add assign a custom action to a command replace [your command name] and [your action ID]:
+[your command name] | /action/[your action ID] | ACTION
 
 # IV - Open RVC from Reaper (OPTIONAL)
 
