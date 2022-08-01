@@ -54,7 +54,7 @@ Note: Your IP or/and ports will probably be different, follow step 7).
 
 # II - Settings window (OUTDATED)
 <p align="center">
-<img width="406" height="403" src="https://user-images.githubusercontent.com/78812716/181275378-d2932c08-bcce-44f7-9404-668b5cfb93ac.png">
+<img width="406" height="403" src="https://user-images.githubusercontent.com/78812716/182211414-cb3fd8cb-befc-424a-99ca-792e3322826d.png">
 </p>  
 
 (1) Settings status: Shows the current state of settings. To save settings you only need to press enter or un-focus the text box you’re editing. Other settings are automatically saved after changes.
