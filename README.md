@@ -3,6 +3,8 @@ This app allows you to trigger REAPER's actions through voice commands.
 
 [![REAPER Voice Controller (v0.1 Beta)](https://yt-embed.herokuapp.com/embed?v=h8PgVAXEntg)](https://www.youtube.com/watch?v=h8PgVAXEntg "REAPER Voice Controller (v0.1 Beta)")
 
+[![Everything Is AWESOME](https://img.youtube.com/vi/h8PgVAXEntg/0.jpg)](https://www.youtube.com/watch?v=h8PgVAXEntg "Everything Is AWESOME")
+
 # How it works?
 The app loads a CSV file (editable) which contains some default voice commands and REAPER actions. Commands are detected using the Windows speech recognition engine (offline, and using your default audio device) and actions are sent to REAPER via OSC protocol.
 
