@@ -52,43 +52,46 @@ Note : Windows Defender may be triggered when you launch the app for the first t
 Note: Your IP or/and ports will probably be different, follow step 7).
 </p>
 
-# II - Settings window (OUTDATED)
+# II - Settings window
 <p align="center">
 <img width="406" height="403" src="https://user-images.githubusercontent.com/78812716/182211414-cb3fd8cb-befc-424a-99ca-792e3322826d.png">
 </p>  
 
 (1) Settings status: Shows the current state of settings. To save settings you only need to press enter or un-focus the text box you’re editing. Other settings are automatically saved after changes.
 
-(2) Local address IP of the device from where Reaper is used. It’s recommended to use the default IP.
+(2) Microphone level and info, helps you to know if a command fails, and why.
 
-(3) VRC Port: It’s the port used by RVC to receive REAPER’s OSC messages. 
+(3) Local address IP of the device from where Reaper is used. It’s recommended to use the default IP.
 
-(4) Reaper Port: It’s the port used by REAPER to receive VRC OSC messages.
+(4) VRC Port: It’s the port used by RVC to receive REAPER’s OSC messages. 
+
+(5) Reaper Port: It’s the port used by REAPER to receive VRC OSC messages.
 
 Note: You can set ports manually. It’s recommended to use values between 1025 and 65535. Just keep in mind that to allow connection between REAPER and RVC, both ports need to be free and different.
 
 IMPORTANT NOTE: If you change any connection settings (IP address or ports), you must change them on REAPER too. Like you’ve done on step 7) of [I - Setup](https://github.com/GazarianGorik/ReaperVoiceController/blob/main/README.md#i---setup).
 
-(5) This value defines how strict the command detection algorithm is. Accepted value are between 0.1 and 1 (included). Recommended value are between 0.6 aand 0.8. A too low value may cause the engine to trigger commands even if you don't say the exact command, but with a too high value, you may need to repeat commands, particularly with a poor quality microphone.
+(6) This value defines how strict the command detection algorithm is. Accepted value are between 0.1 and 1 (included). Recommended value are between 0.6 aand 0.8. A too low value may cause the engine to trigger commands even if you don't say the exact command, but with a too high value, you may need to repeat commands, particularly with a poor quality microphone.
+When you say a command, the recognition score is displayed below the microphone level bar (2).
 
-(6) You can check this box to automatically hide app (settings window) when the app starts.
+(7) You can check this box to automatically hide app (settings window) when the app starts.
 
-(7) Reset settings (not undoable!)
+(8) Reset settings (not undoable!)
 
-(8) Reset commands (not undoable!)
+(9) Reset commands (not undoable!)
 
-(9) If you have any connection troubles or want to check the connection between REAPER and RVC, click this refresh button.
+(10) If you have any connection troubles or want to check the connection between REAPER and RVC, click this refresh button.
 More details about connection troubleshooting here [V - Troubleshoot connection issues](https://github.com/GazarianGorik/ReaperVoiceController/blob/main/README.md#v---troubleshoot-connection-issues)
 
-(10) If you catch a bug, click here to send it to me via email or github! It will be fixed ASAP!
+(11) If you catch a bug, click here to send it to me via email or github! It will be fixed ASAP!
 
 <p align="center">
 <img width="307" height="195" src="https://user-images.githubusercontent.com/78812716/181558275-ceaffc32-0bed-4540-b53d-d8a0e5066453.png">
 </p>  
 
-(11) To open settings window, double click on the app icon or right click -> settings. 
+(12) To open settings window, double click on the app icon or right click -> settings. 
 
-(12) To turn On / Off command detection, click on the app icon. 
+(13) To turn On / Off command detection, click on the app icon. 
 
 # III - Add / Edit vocal commands
 To do so, you need to open and edit commands.csv file from toolbar context menu. Right click on RVC icon and click on *Edit commands.csv*.
